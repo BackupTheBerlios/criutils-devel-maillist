@@ -1,0 +1,19 @@
+From zeiooneioo at gmail.com  Wed Nov  3 20:57:09 2010
+From: zeiooneioo at gmail.com (Marc Poch)
+Date: Wed, 3 Nov 2010 20:57:09 +0100
+Subject: [Criutils-devel] hello world
+Message-ID: <AANLkTikdY9WK7JqsW+d4_CFSKd-Um4a6eztO6NzHeVV6@mail.gmail.com>
+
+This is a test message
+
+see you
+
+-- 
+            Marc
+              ???
+                  www.crimpa.net
+                     Linux user number #432293  -- http://counter.li.org/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/criutils-devel/attachments/20101103/ae70b2d2/attachment.html>
+
